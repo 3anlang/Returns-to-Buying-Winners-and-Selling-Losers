@@ -9,4 +9,4 @@ The output will be a r plot and a csv file of the time serieses of returns of bu
 ## Comments:
 This project was done a few months ago when I had not got a comprehensive understanding of quantitative trading. It is clearly that the code is subject to several notable issues as my data analysis, programming skills and investment knowledge were not very sufficient at that time. 
 
-18/05/2019
+## Modified Date 18/05/2019
